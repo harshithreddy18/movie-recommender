@@ -1,6 +1,6 @@
-Flask==1.1.1
-gunicorn==19.9.0
-Jinja2==2.11.3
+Flask==1.1.4
+gunicor=19.9.0
+Jinja2==2.113
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
 numpy>=1.9.2
@@ -15,3 +15,5 @@ lxml==4.6.5
 urllib3
 requests
 pickleshare==0.7.5
+itsdangerous==1.1.0
+markupsafe==1.1.1
